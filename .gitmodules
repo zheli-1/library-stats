@@ -1,0 +1,3 @@
+[submodule "github-loc"]
+	path = github-loc
+	url = https://github.com/zheli-1/library-stats.git
